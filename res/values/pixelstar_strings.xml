@@ -867,4 +867,8 @@
     <string name="chroma_factor_summary">Higher values produce stronger colors</string>
     <string name="tint_background_title">Tint Background</string>
     <string name="tint_background_summary">Make Luminance and Chroma selection affect background colors as well</string>
+
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
 </resources>
