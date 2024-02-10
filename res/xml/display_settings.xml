@@ -88,6 +88,12 @@
             android:title="@string/theme_customization_icon_pack_title"/>
 
         <Preference
+            android:key="monet_settings"
+            android:title="@string/monet_settings_title"
+            android:summary="@string/monet_settings_sammary"
+            android:fragment="com.android.settings.pixelstar.fragments.MonetSettings" />
+
+        <Preference
             android:fragment="com.android.settings.accessibility.TextReadingPreferenceFragment"
             android:key="text_reading_options"
             android:persistent="false"
