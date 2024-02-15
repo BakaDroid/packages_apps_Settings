@@ -689,7 +689,11 @@
     <!-- Unlock FPS for specific games -->
     <string name="games_spoof_title">Unlock higher FPS in games</string>
     <string name="games_spoof_summary">Spoof your device as a different model for specific games to unlock higher FPS</string>
-    
+
+    <!-- Netflix Spoof -->
+    <string name="netflix_spoof_title">Netflix spoof</string>
+    <string name="netflix_spoof_summary">Spoof your device as Pixel 8 Pro for Netflix</string>
+
     <!-- Pif -->
     <string name="pif_title">Play integrity fix</string>
     <string name="pif_summary">View current values used to spoof GMS</string>
