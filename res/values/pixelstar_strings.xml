@@ -681,10 +681,6 @@
     <string name="volume_slider_haptics_intensity_title">Volume slider haptics intensity</string>
     <string name="qs_panel_tile_haptic_intensity_title">QS tile haptics intensity</string>
     
-    <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
-    
     <!-- Ambient wake toggles -->
     <string name="doze_gesture_ambient_title">Show Ambient</string>
     <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
